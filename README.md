@@ -13,7 +13,6 @@ Welcome to JobFinder, a React-Native application that helps users find their dre
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -92,11 +91,3 @@ Contributions are welcome and encouraged! To contribute to the JobFinder project
 4. Commit your changes with clear commit messages.
 5. Push your changes to your fork.
 6. Create a pull request detailing your changes.
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
-
----
-
-Happy job hunting with JobFinder! If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue or contribute to the project. Your feedback is greatly appreciated.
