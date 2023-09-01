@@ -53,9 +53,7 @@ Before you begin, ensure you have met the following requirements:
 
 - Search and browse job listings from various sources.
 - Filter jobs based on location, job type, and keywords.
-- Save favorite job listings for future reference.
 - Apply for jobs directly through the app.
-- User authentication and profile management.
 
 ## Usage
 
