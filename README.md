@@ -1,7 +1,5 @@
 # JobFinder React-Native Project
 
-![JobFinder Logo](./assets/logo.png)
-
 Welcome to JobFinder, a React-Native application that helps users find their dream jobs! This project aims to provide a user-friendly interface for job seekers to search and discover job listings from various sources.
 
 ## Table of Contents
